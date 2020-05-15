@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js remove styled-components
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-navigation
 
 PATH: 
   C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\y\AppData\Local\Microsoft\WindowsApps;C:\Users\y\AppData\Local\GitHubDesktop\bin;C:\Users\y\AppData\Local\Yarn\bin;C:\Users\y\AppData\Roaming\npm;C:\Users\y\AppData\Local\Programs\Microsoft VS Code\bin
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'C:\Users\y\Desktop\Estudo\listbook\node_modules\@emotion\is-prop-valid\dist'
+  Error: EPERM: operation not permitted, unlink 'C:\Users\y\Desktop\Estudo\listbook\node_modules\@emotion\memoize\dist'
 
 npm manifest: 
   {

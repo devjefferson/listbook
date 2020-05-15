@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Main from './src/pages/Book'
+import Routes from './src/routes'
 
 const booklist = () => {
-  return <Main/>
+  return <Routes/>
 }
  
 export default booklist;
